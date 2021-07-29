@@ -5,4 +5,5 @@ data class Person(
     val friendName : String,
     val surname : String,
     val salary : Int
+    val bestFriend : String
     )
